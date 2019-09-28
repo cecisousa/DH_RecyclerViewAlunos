@@ -34,15 +34,15 @@ public class MainActivity extends AppCompatActivity {
 
     public List<Alunos> retornaListAlunos(){
         retornaListAlunos().add(new Alunos("Ana", "1111"));
-        retornaListAlunos().add(new Alunos("Ana", "2222"));
-        retornaListAlunos().add(new Alunos("Ana", "3333"));
-        retornaListAlunos().add(new Alunos("Ana", "4444"));
-        retornaListAlunos().add(new Alunos("Ana", "5555"));
-        retornaListAlunos().add(new Alunos("Ana", "6666"));
-        retornaListAlunos().add(new Alunos("Ana", "7777"));
-        retornaListAlunos().add(new Alunos("Ana", "8888"));
-        retornaListAlunos().add(new Alunos("Ana", "9999"));
-        retornaListAlunos().add(new Alunos("Ana", "0000"));
+        retornaListAlunos().add(new Alunos("Bia", "2222"));
+        retornaListAlunos().add(new Alunos("Ceci", "3333"));
+        retornaListAlunos().add(new Alunos("Diana", "4444"));
+        retornaListAlunos().add(new Alunos("Elisa", "5555"));
+        retornaListAlunos().add(new Alunos("Fabi", "6666"));
+        retornaListAlunos().add(new Alunos("Gabi", "7777"));
+        retornaListAlunos().add(new Alunos("Helena", "8888"));
+        retornaListAlunos().add(new Alunos("Juliana", "9999"));
+        retornaListAlunos().add(new Alunos("Karina", "0000"));
 
         return listaAlunos;
     }
