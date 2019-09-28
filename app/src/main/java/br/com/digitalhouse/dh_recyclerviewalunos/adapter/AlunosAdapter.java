@@ -50,7 +50,7 @@ public class AlunosAdapter extends RecyclerView.Adapter<AlunosAdapter.ViewHolder
             super(itemView);
 
             txtNome = itemView.findViewById(R.id.txtNome);
-            txtRA = itemView.findViewById(R.id.txtTelefone);
+            txtRA = itemView.findViewById(R.id.txtRA);
         }
 
         public void onBind(Alunos aluno){

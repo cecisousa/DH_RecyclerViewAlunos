@@ -1,11 +1,11 @@
 package br.com.digitalhouse.dh_recyclerviewalunos.model;
 
 public class Alunos {
+
     private String nome;
     private String RA;
 
-    public Alunos (){
-
+    public Alunos () {
     }
 
     public Alunos(String nome, String RA) {

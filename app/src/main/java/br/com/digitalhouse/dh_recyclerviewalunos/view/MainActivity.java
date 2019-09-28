@@ -33,16 +33,16 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public List<Alunos> retornaListAlunos(){
-        retornaListAlunos().add(new Alunos("Ana", "1111"));
-        retornaListAlunos().add(new Alunos("Bia", "2222"));
-        retornaListAlunos().add(new Alunos("Ceci", "3333"));
-        retornaListAlunos().add(new Alunos("Diana", "4444"));
-        retornaListAlunos().add(new Alunos("Elisa", "5555"));
-        retornaListAlunos().add(new Alunos("Fabi", "6666"));
-        retornaListAlunos().add(new Alunos("Gabi", "7777"));
-        retornaListAlunos().add(new Alunos("Helena", "8888"));
-        retornaListAlunos().add(new Alunos("Juliana", "9999"));
-        retornaListAlunos().add(new Alunos("Karina", "0000"));
+        listaAlunos.add(new Alunos("Ana", "1111"));
+        listaAlunos.add(new Alunos("Bia", "2222"));
+        listaAlunos.add(new Alunos("Ceci", "3333"));
+        listaAlunos.add(new Alunos("Diana", "4444"));
+        listaAlunos.add(new Alunos("Elisa", "5555"));
+        listaAlunos.add(new Alunos("Fabi", "6666"));
+        listaAlunos.add(new Alunos("Gabi", "7777"));
+        listaAlunos.add(new Alunos("Helena", "8888"));
+        listaAlunos.add(new Alunos("Juliana", "9999"));
+        listaAlunos.add(new Alunos("Karina", "0000"));
 
         return listaAlunos;
     }
